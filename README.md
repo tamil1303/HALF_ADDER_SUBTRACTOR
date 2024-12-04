@@ -34,6 +34,8 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![Screenshot 2024-12-04 193347](https://github.com/user-attachments/assets/f80a5413-f44f-417f-aeff-1878b7d23c29)
+![Screenshot 2024-12-04 193402](https://github.com/user-attachments/assets/faadddae-d5be-42ed-9971-776f45e8d238)
 
 **Procedure**
 
@@ -55,7 +57,13 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![Screenshot 2024-12-04 192248](https://github.com/user-attachments/assets/71373425-9987-4753-a65b-a063bca8fbee)
+![Screenshot 2024-12-04 194454](https://github.com/user-attachments/assets/e6e2e386-45a8-4eea-acc5-f9ee194e38aa)
 
 **Output/TIMING Waveform**
+![image](https://github.com/user-attachments/assets/4325b44b-ae3b-499d-8237-ebdca8180e7d)
+![image](https://github.com/user-attachments/assets/44b7fd98-a557-4419-809d-529df85c63ff)
+
 
 **Result:**
+            Thus the given logic function are implemented using and hier operations are verified using.
